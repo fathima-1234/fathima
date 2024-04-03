@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Structured Query Language & Relational Database**
+- 🌱 I’m currently learning **Django Flask**
 
 - 💬 Ask me about **Object-Oriented Programming, Web Development, Python, Django**
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fathima suhra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fathima suhra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fathima-suhra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fathima suhra" height="30" width="40" /></a>
 <a href="https://fb.com/fathima suhra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fathima suhra" height="30" width="40" /></a>
 </p>
 

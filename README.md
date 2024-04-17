@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Django Flask**
 
-- 💬 Ask me about **Object-Oriented Programming, Web Development, Python, Django**
+- 💬 Ask me about **Object-Oriented Programming, Web Development, Python, Django, React**
 
 - 📫 How to reach me **fathimasuhra19@gmail.com**
 

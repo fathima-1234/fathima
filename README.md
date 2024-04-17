@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Django Flask**
+- 🌱 I’m currently learning **DS**
 
 - 💬 Ask me about **Object-Oriented Programming, Web Development, Python, Django, React**
 
